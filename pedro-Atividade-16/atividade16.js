@@ -18,3 +18,7 @@ function amarelo() {
   bg.style.backgroundColor = "yellow";
 }
   
+function reset(){
+  var bg = document.querySelector("body");
+  bg.style.backgroundColor = "white";
+}
